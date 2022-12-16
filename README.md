@@ -39,5 +39,8 @@ make
 
 Among others the hello.ko is now present. 
 
+See also about linux driver for beginner
+https://habr.com/ru/post/342668/
+https://habr.com/ru/company/timeweb/blog/680850/
 
 Thoughts and comments are welcome. 
