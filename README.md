@@ -1,5 +1,5 @@
 # cmake_helloworldDriver
- example of cmake driver for linux
+ example of cmake for driver (linux)
  
  A simple hello world kernel module, that can be build with cmake.
 Utilize Kbuild through cmake, and do it in a build directory.
